@@ -13,4 +13,8 @@ public class Nodo {
 	}
 	
 	//esto lo cambio ahora a las 19:59
+	//hoy en 12 de febrero, 8,43
 }
+
+	
+	
